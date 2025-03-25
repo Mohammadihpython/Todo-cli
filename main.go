@@ -1,4 +1,4 @@
-package Todo_cli
+package main
 
 import "fmt"
 
